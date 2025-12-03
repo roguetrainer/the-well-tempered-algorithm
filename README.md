@@ -3,6 +3,10 @@
 
 This repository contains an interactive workshop (`Bach_AI_Workshop.ipynb`) designed to teach Algorithmic Composition in the style of J.S. Bach.
 
+---
+![Bach](bach.jpg)
+---
+
 ## Project Structure
 The workshop progresses through three "eras" of AI music history:
 
